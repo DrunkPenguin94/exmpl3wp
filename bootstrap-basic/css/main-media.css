@@ -1,0 +1,755 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+@media screen and (max-width: 1200px){
+	.doctor-content.post .one-doc {
+		height: 245px;
+	}
+	.block-info-about .text-block {
+		font-size: 15px;
+		padding-top: 25px;
+	}
+	.block-appointment-about .img-administrator{
+		    background-position-x: 24%;
+	}
+	.block-appointment-about .steps .step .text {
+		max-width: 370px;
+	}
+	.block-appointment-about .container-content{
+		width: 520px;
+		
+	}
+	.block-appointment-about .title{
+		padding: 0 95px;
+		font-size: 28px;
+	}
+	.block-appointment-about .steps {
+		
+		margin-top: 40px;
+	}
+	
+	.block-appointment-about .steps .step {
+		padding-left: 100px;
+	}
+	
+	
+	.block-info .content> div .title {
+		font-size: 15px;
+	
+	}
+	.block-info .content> div.happy-time {
+		padding-left: 55px;
+		padding-right: 50px;
+	}
+	.block-info .content> div.time-work {
+		padding-left: 25px;
+	}
+	.one-slider-block{
+		height:580px;
+	}
+	.block-slider-big .text {
+		font-size: 35px;
+	}
+	.button-white-hidden {
+		padding: 15px 24px;
+	}
+	.one-slider-block .block-button {
+		margin-top: 40px;
+	}
+	.block-reviews .block-administrator-img{
+		background-position-x: 50%;
+	}
+	.block-reviews .one-review-block,
+	.block-buntton .container-button,
+	.block-reviews .owl-nav{
+		width:80%;
+	}
+	.block-reviews .block-review .title{
+		width:100%;
+	}
+	.block-reviews .block-review .container-reviews,
+	.block-reviews .block-review .container-reviews.block-buntton{
+		width:520px;
+	}
+	.site-head-1 .head-adress{
+		padding-top: 10px;
+	}
+	.block-team .people .one-team-block .text{
+		left: 60px;
+	}
+
+	.navbar-nav>li>a {
+		padding-left: 15px;
+		padding-right: 10px;
+		font-size: 16px;
+	}
+
+	#footer-row .title {
+		font-size: 16px;
+	}
+
+	#footer-row .info {
+		font-size: 12px;
+
+	}
+	#footer-row .subscribe .block .fa-instagram {
+		padding-top: 6px;
+	}
+	#footer-row .subscribe .block .fa-vk {
+		padding-top: 5px;
+	}
+	#footer-row .subscribe .title{
+		font-weight:600;
+	}
+	#footer-row .block i {
+		margin: 0 5px;
+		vertical-align: middle;
+		text-align: center;
+		background: white;
+		width: 35px;
+		height: 35px;
+		border-radius: 55%;
+		font-size: 23px;
+	}
+
+	#footer-row .button-enroll {
+
+		font-size: 15px;
+
+
+		height: 50px;
+
+		padding-top: 13px;
+		width: 100%;
+		margin-left: 0;
+
+	}
+}
+
+
+@media screen and (max-width: 992px){
+	.site-head-3 .block .bvi-panel-open {
+   
+		font-size: 12px;
+	}
+	.bvi-glyphicon-eye {
+		font-size: 15px;
+	}
+	.page-kontakt .map{
+		padding: 0;
+		margin-top: 25px;
+	}
+	.doctor-content.post .one-doc {
+		height: 245px;
+	}
+	.information-content.post .title-block{
+		font-size: 23px;
+	}
+	
+	.block-appointment-about-page .circle-block{
+		left: 19%;
+	}
+	.block-appointment-about-page .arrow-block{
+		left: 29%;
+	}
+	.block-appointment-about-page{
+		    background-position-x: 50%;
+	}
+	.block-appointment-about-page .text .normal{
+		padding: 0 10px;
+		font-size: 25px;
+	}
+	.block-info-about .text-block {
+		font-size: 13px;
+	}
+	.block-benefits .name {
+	    font-size: 15px;
+		
+		margin-top: 15px;
+	}
+	.block-benefits .img img {
+		max-width: 100px;
+	}
+
+	.block-benefits .info {
+		font-size: 12px;
+	}
+
+	.block-appointment-about .img-administrator{
+		    background-position-x: 40%;
+	}
+	.block-appointment-about .container-content{
+		width: 370px;
+		
+	}
+	.block-appointment-about .title{
+		padding: 0 0px;
+		font-size: 28px;
+	}
+	.block-appointment-about .steps {
+		
+		margin-top: 25px;
+	}
+	
+	.block-appointment-about .steps .step {
+		padding-left: 10px;
+	}
+	.block-appointment-about .steps .step .text {
+		max-width: 305px;
+	}
+	.block-appointment-about .steps .step .text {
+		font-size: 16px;
+	}
+	
+	.block-info .content,
+	.block-info .three-line	{
+		width: 99%;
+	}
+	.block-info .content> div .title {
+		font-size: 14px;
+	}
+	.block-info .content> div.happy-time {
+		padding-left: 45px;
+		padding-right: 45px;
+	}
+	.block-info .contact .number a{
+		font-size: 15px;
+		padding-left: 15px;
+	}
+	.block-info .contact .number {
+		font-size: 25px;
+	}
+	.block-info .time-work .one-line .day{
+		font-size:11px;
+	}
+	.block-info .time-work .one-line .day{
+		font-size:12px;
+	}
+	.one-slider-block {
+		height: 500px;
+	}
+	.block-slider-big .text {
+		font-size: 25px;
+	}
+	.button-white-hidden {
+		    padding: 12px 18px;
+	}
+	.one-slider-block .block-button {
+		margin-top: 40px;
+	}
+	
+	
+	.block-reviews .block-review .container-reviews,
+	.block-reviews .block-review .container-reviews.block-buntton{
+		width:370px;
+	}
+	.block-team .people .one-team-block .text {
+		left: 90px;
+	}
+	.block-o-nas .info{
+		    padding-top: 45px;
+	}
+	.block-o-nas .info .title{
+		margin-top: 45px;
+		font-size: 16px;
+	}
+	
+	.block-o-nas .info .text {
+		font-size: 13px;
+		color: rgb(0, 0, 0);
+		margin-top: 30px;
+	}
+	#footer-row .button-enroll{
+		font-size: 11px;
+		padding-top: 8px;
+		height: 35px;
+	}
+	#footer-row-2 .politika{
+		text-align: left;
+	}
+
+	.site-head-1, .site-head-1 a{
+		font-size: 12px;
+	}
+	.site-head-1 .head-adress{
+		font-size: 12px;
+		padding-top: 16px;
+	}
+	.site-head-1 .head-email i, .site-head-1 .head-phone i {
+		font-size: 16px;
+		padding-right: 10px;
+	}
+	.site-head-1 .head-phone {
+		padding-top: 24px;
+	}
+	.head-link,.head-lupa{
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.navbar-nav>li>a {
+		padding-left: 15px;
+		padding-right: 10px;
+		font-size: 11px;
+
+	}
+	.head-logo img{
+		margin-top: 18px;
+	}
+	.site-head-1 .head-lupa i {
+		font-size: 22px;
+	}
+	.site-head-1 .head-link i {
+		font-size: 22px;
+	}
+	#wpcf7-f183-o1{
+		    margin-top: 95px;
+	}
+	.block-appointment-about-page.page-price #wpcf7-f183-o1 {
+		margin-top: 0px;
+	}
+	
+	 .wp-pagenavi a{
+		color: rgb(2, 74, 140);
+		font-size: 25px;
+		font-weight: 700;
+	}
+
+	 .wp-pagenavi span{
+		color:#51fcd6;
+		font-size: 25px;
+		font-weight: 700;
+	}
+	#wpcf7-f4-o1{
+		margin-bottom: 50px;
+    
+	}
+	.block-reviews.page-review .block-review{
+		    padding: 0 10px;
+	}
+	.doctor-content.post{
+		margin-top:15px;
+		
+	}
+	.doctor-content.post .block-info > div {
+		margin-left: 0px;
+	}
+}
+
+
+
+@media screen and (max-width: 750px){
+	.site-head-3{
+		display:none;
+	}
+	#footer-row > .block{
+		margin-top:15px;
+	  display:block;
+	}
+
+	.site-head-3 .block{
+		text-align: center;
+		position: relative;
+		padding-bottom: 15px;
+		padding-right:0;
+		right: initial;
+		top: 0;
+		padding-left: 0;
+	}
+	.site-head-3 .block .bvi-panel-open {
+		font-size: 18px;
+	}
+	
+	.bvi-glyphicon-eye {
+		font-size: 20px;
+	}
+
+	.page-information-main .one-information .block{
+		min-height:auto;
+	}
+	.page-kontakt .map{
+		padding: 0;
+		margin-top: 25px;
+	}
+	.page-kontakt .content{
+		margin-top: 5px;
+		margin-left:0;
+		margin-right:0;
+	}
+
+	.doctor-content.post .block-documents {
+		 padding-top: 10px;
+	}
+	.doctor-content.post .one-doc {
+		height: 245px;
+		margin-bottom: 15px;
+	}
+	.block-appointment-about-page.page-price{
+		margin-bottom:0px;
+	}
+	.block-info-about .text-block {
+		padding-top: 0px;
+	}
+	.block-benefits .img{
+		margin-top: 0px;
+	}
+	.block-benefits .benefit{
+		margin-top:0px;
+		margin-bottom:20px;
+	}
+	.service-content .img-in-text{
+		float: initial;
+		/* text-align: center; */
+		display: block;
+		max-width: 100%;
+		margin: auto;
+		margin-bottom: 10px;
+	}
+	#wpcf7-f183-o1{
+		display:block;
+	}
+	.block-appointment-about-page .circle-block{
+		display:none;
+	}
+	.block-appointment-about-page{
+		padding-top:0px;
+	}
+	.block-appointment-about-page .text{
+		padding-top:0px;
+	}
+	.block-appointment-about-page{
+		background-position-y: 0px;
+		margin-bottom: 30px;
+		background-size: cover;
+		    height: auto;
+	}
+	#wpcf7-f126-o1{
+		    width: 100%;
+		left: initial;
+		top: initial;
+	}
+	.block-appointment-about-page .forma{
+		padding-top: 15px;
+		padding-bottom: 20px;
+	}
+	.block-appointment-about-page .text .normal {
+		padding-top: 25px;
+	}
+	.block-appointment-about-page .arrow-block{
+		display:none;
+	}
+	.block-info-about .img-block{
+		/*display:none;*/
+	}
+	.block-info-about .text-block {
+		font-size: 16px;
+	}
+	.block-benefits .name {
+	    font-size: 20px;
+		
+		margin-top: 15px;
+		min-height:initial;
+	}
+	.block-benefits .img img {
+		max-width: 100%;
+	}
+
+	.block-benefits .info {
+		font-size: 17px;
+	}
+	.block-appointment-about .steps .step {
+		padding-left: 20%;
+	}
+	.block-appointment-about .container-content,
+	.block-appointment-about .content{
+		width:100%;
+	}
+	.block-appointment-about{
+		height:100%;
+		
+	}
+	.block-appointment-about .content{
+		padding-bottom:40px;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.block-appointment-about .img-administrator{
+		display:none;
+	}
+	.one-slider-block {
+		height: 360px;
+	}
+	.block-info .time-work, .block-info .contact{
+		width:100%;
+	}
+	.block-info .happy-time {
+		width: 100%;
+	}
+	.block-info .content> div.time-work{
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.block-info .content> div .title {
+		font-size: 22px;
+		text-align: center;
+	}
+	.block-info .time-work .one-line .day {
+		font-size: 16px;
+	}
+	.block-info .time-work .one-line .time {
+		font-size: 15px;
+	}
+	.block-info .happy-time .day_time {
+		
+		font-size: 15px;
+		display: block;
+		text-align: center;
+	}
+	.block-info .happy-time .saly{
+		display: block;
+		font-size: 15px;
+		text-align: center;
+	}
+	.block-info .content-absolute{
+		position: relative;
+		margin-top: 20px;
+		top:initial;
+	}
+	.block-slider-big .owl-dots{
+		bottom:25px;
+	}
+	.block-info .happy-time .button-enroll{
+		    margin: auto;
+		font-size: 17px;
+		display: inline-block;
+		padding: 10px 20px;
+	}
+	.block-info .happy-time .block-button{
+		text-align:center;
+	}
+	.block-info .contact .number a {
+		font-size: 19px;
+	}
+	.block-info .contact .number{
+		text-align: center;
+		font-size: 35px;
+	}
+	.block-info .contact .text{
+		display: block;
+		text-align: center;
+		font-size: 15px;
+		margin-bottom: 21px;
+	}
+	.block-reviews .one-review-block, .block-buntton .container-button, .block-reviews .owl-nav{
+		width:100%;
+		padding: 0px 10px;
+		
+	}
+	.block-reviews .owl-nav{
+		text-align:center;
+	}
+	.block-reviews .block-review .container-reviews.block-buntton{
+		text-align:center;
+		margin-bottom: 25px;
+		width: 100%;
+	}
+	.one-review-block .text{
+		height:auto;
+		overflow-y:hidden;
+	}
+	.block-reviews{
+		height:auto;
+	}
+	.block-reviews .block-administrator-img{
+		display:none;
+	}
+	.block-reviews .block-review,
+	.block-reviews .block-review .container-reviews{
+		width:100%;
+	}
+	.block-o-nas .info{
+		padding-top:10px;
+		padding-bottom:15px;
+	}
+	.block-o-nas{
+		background-position-y:0px;
+	}
+	.block-o-nas .info .title{
+		margin-top:15px;
+	}
+	.block-team .people .one-team-block{
+		max-width:280px;
+		margin:auto;
+	}
+	.block-team .people .one-team-block .text {
+		left: 45px;
+	}
+	.block-o-nas .info > div{
+		padding-left:0px;
+	}
+	.block-o-nas .row-flex {
+		min-height: initial;
+		padding-bottom: 0px;
+	}
+	#footer-row-2 > div{
+		text-align: center !important;
+		padding-bottom: 15px;
+	}
+	#footer-row .button-enroll{
+		max-width: 245px;
+		font-size: 16px;
+		height: 45px;
+		padding-top: 10px;
+		margin-bottom: 15px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#footer-row {
+		height: auto;
+	}
+	#site-footer{
+		height: auto;
+	}
+	#footer-row .logo img{
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#footer-row{
+		text-align: center;
+	}
+	.site-head-1 {
+		height: auto;
+	}
+	.site-head-2 {
+		height: auto;
+	}
+	.white-line-bottom{
+		display:none;
+	}
+	.navbar-toggle
+	{
+		float: initial;
+		margin: 0;
+		border: 2px solid white;
+	}
+	.navbar-toggle span{
+		border-bottom: 2px solid white;
+	}
+	.navbar-header{
+		text-align: center;
+	}
+
+	.head-logo,.navbar-header{
+		display: inline-block;
+	}
+	.row.main-navigation{
+		font-size: 0;
+		padding-bottom: 10px;
+	}
+	.head-logo {
+		vertical-align: top;
+		width: 70%;
+	}
+	.navbar-header{
+
+		margin-top: 21px;
+		display: inline-block;
+		width: 30%;
+		/* font-size: 0px; */
+		vertical-align: top;
+	}
+	.navbar{
+		min-height: auto;
+	}
+	.navbar-nav{
+		float: none;
+		text-align: center;
+	}
+	.navbar-nav>li>a{
+		font-size: 20px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.navbar-collapse.collapse{
+		padding: 0;
+	}
+	.navbar-nav{
+		margin:0;
+	}
+	#wpcf7-f183-o1 {
+		margin-top: 25px;
+	}
+	
+	
+}
+@media screen and (max-width: 600px){
+	.block-service .one-service-block .img img {
+		
+		
+		width: 65px;
+		height: 65px;
+	
+		
+	}
+	.block-service .one-service-block .text{
+		margin-top:0px;
+	}
+
+	.block-service .one-service-block{
+		font-size:0px;
+		width: 100%;
+		padding: 0 10px;
+		margin-top: 10px;
+	}
+	.block-service .one-service-block .img{
+		display: inline-block;
+		max-width:25%;
+		vertical-align: middle;
+		width: ;
+	}
+	.block-service .one-service-block .text{
+		display: inline-block;
+		vertical-align: middle;
+		width: 75%;
+		text-align: left;
+		padding-left: 25px;
+	}
+}
+
+@media screen and (max-width: 500px){
+	.title-block {
+		font-size: 35px;
+	}
+	.one-slider-block {
+		height: 500px;
+	}
+	
+	.block-appointment-about .steps .step {
+		padding-left: 9%;
+	}
+	
+	.block-appointment-about .steps .step .text {
+		max-width: 205px;
+	}
+}
+@media screen and (max-width: 350px){
+	.block-team .people .one-team-block .text {
+		left: 25px;
+	}
+}
+
+@media screen and (max-width: 300px){
+	.block-service .one-service-block{
+		
+	}
+	
+}
+
+@media screen and (max-width: 1170px){
+	.container-custom-slider{
+		//width:970px ;
+		
+	}
+}
